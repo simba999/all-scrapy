@@ -1,0 +1,13 @@
+store_name,store_number,address,address2,city,state,zip_code,country,phone_number,latitude,longitude,store_hours,store_type,other_fields,coming_soon
+Lynwood,,3160 E Imperial Hwy,,Lynwood,CA,90262,United States,(310) 632-7711,33.928298,-118.214201,"Monday - Friday, 10am - 9pm, Saturday - Sunday, 10am - 9pm",,,
+Phoenix,,7815 W. Thomas Rd.,,Pheonix,AZ,85033,United States,(623) 848-0040,33.478176,-112.226347,"Monday - Friday, 10am - 9pm, Saturday - Sunday, 10am - 9pm",,,
+Santa Ana,,16111 Harbor Blvd,,Fountain Valley,CA,92708,United States,(714) 775-9700,33.730069,-117.921431,"Monday - Friday, 10am - 9pm, Saturday - Sunday, 10am - 9pm",,,
+Anaheim,,1520 Lemon St,,Anaheim,CA,92801,United States,(714) 738-4900,33.854951,-117.916614,"Monday - Friday, 10am - 9pm, Saturday - Sunday, 10am - 9pm",,,
+Chino,,5459 Philadelphia St,,Chino,CA,91710,United States,(909) 628-1919,34.032359,-117.686731,"Monday - Friday, 10am - 9pm, Saturday - Sunday, 10am - 9pm",,,
+Huntington Park,,5980 Pacific Blvd,,Huntington Park,CA,90255,United States,(323) 826-3000,33.987747,-118.223384,"Monday - Friday, 10am - 9pm, Saturday - Sunday, 10am - 9pm",,,
+Tucson,,3390 S. 6th Ave,,Tucson,AZ,85713,United States,(520) 576-5565,32.187397,-110.97236,"Monday - Friday, 10am - 9pm, Saturday - Sunday, 10am - 9pm",,,
+San Bernardino,,885 Harriman Pl,,San Bernardino,CA,92408,United States,(909) 383-5099,34.064727,-117.267191,"Monday - Friday, 10am - 9pm, Saturday - Sunday, 10am - 9pm",,,
+South Gate,,8618 Garfield Ave.,,South Gate,CA,90280,United States,(562) 927-3027,33.952433,-118.163147,"Monday - Friday, 10am - 9pm, Saturday - Sunday, 10am - 9pm",,,
+Las Vegas,,4300 Meadows Ln,,Las Vegas,NV,89107,United States,(877) 287-2226,36.172714,-115.197242,"Monday - Friday, 10am - 9pm, Saturday - Sunday, 10am - 9pm",,,
+Panorama City,,8401 Van Nuys Blvd.,,Panorama City,CA,91402,United States,(818) 830-6500,34.224429,-118.449172,"Monday - Friday, 10am - 9pm, Saturday - Sunday, 10am - 9pm",,,
+Los Angeles,,1605 W Olympic Blvd,,Los Angeles,CA,90015,United States,(213) 639-2100,34.049557,-118.274468,"Monday - Friday, 10am - 9pm, Saturday - Sunday, 10am - 9pm",,,
